@@ -38,6 +38,6 @@
 
 ###
 
-<p align="left">Feel free to connect with me via email at <a href="mailto:pallapubhavitha824@gmail.com">pallapubhavitha824@gmail.com</a></p>
+<p align="left">Feel free to connect with me via email at <a href="mailto:bhavithapallapu@gmail.com">bhavithapallapu@gmail.com</a></p>
 
 ###
