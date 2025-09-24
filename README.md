@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bhavitha Pallapu 
+# Hi there! 👋 I'm Bhavitha Pallapu  
  
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;Problem+Solver+%26+Code+Enthusiast" alt="Typing SVG" />
