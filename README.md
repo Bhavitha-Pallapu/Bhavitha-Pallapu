@@ -66,13 +66,7 @@ const bhavitha = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </div>
 
----
 
-## 🎯 Featured Projects
-
-*Coming Soon! I'm working on some exciting projects that I'll showcase here.*
-
----
 
 ## 🤝 Let's Connect!
 
