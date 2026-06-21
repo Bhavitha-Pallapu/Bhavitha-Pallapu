@@ -9,7 +9,7 @@
 
 ## 🎓 About Me
 
-**B.Tech in Electronics and Communication Engineering (ECE) **  
+**B.Tech in Electronics and Communication Engineering (ECE)**  
 📍 Cmr Engineering College
 
 ```javascript
