@@ -15,7 +15,7 @@
 ```javascript
 const bhavitha = {
     pronouns: "she/her",
-    code: ["C", "C++", "Java", "Python", "HTML", "CSS"],
+    code: ["C", "C++", "Java", "Python", "SQL","HTML", "CSS"],
     currentFocus: "Full-Stack Development",
     funFact: "I debug by talking to my code - surprisingly effective! 😄"
 };
