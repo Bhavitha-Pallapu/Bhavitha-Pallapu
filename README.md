@@ -23,12 +23,13 @@ const bhavitha = {
 
 ---
 
-## 🚀 What I'm Up To
+## 🛠️ What I'm Building
 
-- 🌱 **Currently Learning:** Modern web development technologies and software engineering principles
-- 🎯 **2025 Goals:** Build impactful projects and contribute to open-source
-- 💡 **Always Exploring:** New technologies and creative problem-solving approaches
-- 🔍 **Looking for:** Internship opportunities and collaborative projects
+- 🔨 **Currently Building:** Web apps that solve real problems, shipping small and iterating fast
+- 🧱 **Learning by Making:** Modern web tech and software engineering principles, one project at a time
+- 🌍 **Giving Back:** Contributing to open-source and learning from the people who maintain it
+- 🧪 **Experimenting With:** New tools, ideas, and creative ways to solve problems
+- 🤝 **Open To:** Internships and collaborations. If you're building something cool, let's talk!
 
 ---
 
